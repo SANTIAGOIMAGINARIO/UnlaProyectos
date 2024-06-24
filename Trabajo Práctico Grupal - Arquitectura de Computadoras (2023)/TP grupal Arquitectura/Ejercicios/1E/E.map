@@ -1,0 +1,52 @@
+MPLINK 4.31, Linker
+Linker Map File - Created Wed Nov 01 14:17:34 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00006a
+                   .cinit    romdata   0x000035    program   0x000004
+         .config_2007_E.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000036      
+                            0x002007    0x002007      
+            56 out of 2183 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              Delay_1mili   0x000019    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                     Main   0x000008    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+           delay_1SEGUNDO   0x00002e    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+            delay_250mili   0x000020    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+            delay_500mili   0x000027    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                     loop   0x00001b    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop2   0x000022    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop3   0x000030    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop4   0x000008    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop5   0x000029    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     Main   0x000008    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop4   0x000008    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+              Delay_1mili   0x000019    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                     loop   0x00001b    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+            delay_250mili   0x000020    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop2   0x000022    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+            delay_500mili   0x000027    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop5   0x000029    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+           delay_1SEGUNDO   0x00002e    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+                    loop3   0x000030    program     static C:\Users\Lautaro\Desktop\TP grupal Arquitectura\Ejercicios\1E\E.asm
+
+

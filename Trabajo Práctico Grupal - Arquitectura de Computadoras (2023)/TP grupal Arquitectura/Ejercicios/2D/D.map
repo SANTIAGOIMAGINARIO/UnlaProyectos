@@ -1,0 +1,46 @@
+MPLINK 4.31, Linker
+Linker Map File - Created Tue Oct 31 13:47:47 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000056
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x00002e      
+            46 out of 2183 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                Delay_1ms   0x000028    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+              Delay_250ms   0x000021    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                   INICIO   0x00000c    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    LUCES   0x000018    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    Loop1   0x00002a    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    Loop2   0x000023    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+             _.org_1_0017   0x000017    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x00000c    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+             _.org_1_0017   0x000017    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    LUCES   0x000018    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+              Delay_250ms   0x000021    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    Loop2   0x000023    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                Delay_1ms   0x000028    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+                    Loop1   0x00002a    program     static D:\UNLa\Arq. de computadoras\Ejercicios\Ejercicio 2\D\D.asm
+
+
